@@ -1,0 +1,902 @@
+[
+ {
+  "slug": "luxe-dental-center",
+  "name": "Luxe Dental Center",
+  "short": "Luxe",
+  "email": "info@luxedental.lu",
+  "phone": "+352 20 60 60 88",
+  "locality": "Bertrange",
+  "url": "https://hridayagg.github.io/lumora-demos/luxe-dental-center/"
+ },
+ {
+  "slug": "ares-dental",
+  "name": "Ares Dental",
+  "short": "Ares",
+  "email": "info@aresdental.lu",
+  "phone": "+352 26 31 35 17",
+  "locality": "Mamer",
+  "url": "https://hridayagg.github.io/lumora-demos/ares-dental/"
+ },
+ {
+  "slug": "dr-mouhamed-moualla",
+  "name": "Dr Mouhamed Moualla",
+  "short": "Dr Mouhamed",
+  "email": "mouallam@yahoo.fr",
+  "phone": "+352 661 648 295",
+  "locality": "Bertrange",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-mouhamed-moualla/"
+ },
+ {
+  "slug": "centre-medico-dentaire-de-luxembourg",
+  "name": "Centre médico-dentaire de Luxembourg",
+  "short": "Centre",
+  "email": "centredentaire2019@gmail.com",
+  "phone": "+352 49 57 99",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/centre-medico-dentaire-de-luxembourg/"
+ },
+ {
+  "slug": "dr-raymond-beck",
+  "name": "Dr. Raymond Beck",
+  "short": "Dr. Raymond",
+  "email": "info@dr-beck.lu",
+  "phone": "+352 22 18 15",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-raymond-beck/"
+ },
+ {
+  "slug": "cabinet-dentaire-dr-david-hoa",
+  "name": "Cabinet Dentaire Dr David HOA",
+  "short": "Cabinet",
+  "email": "davidhoa@drhoa-dentiste.lu",
+  "phone": "(+352) 22 50 88",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-dr-david-hoa/"
+ },
+ {
+  "slug": "cabinet-dentaire-schroeder-michalus",
+  "name": "Cabinet dentaire Schroeder & Michalus",
+  "short": "Cabinet",
+  "email": "info@luxdentiste.lu",
+  "phone": "+352 36 06 63",
+  "locality": "Howald",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-schroeder-michalus/"
+ },
+ {
+  "slug": "cabinet-d-orthodontie-becker",
+  "name": "Cabinet d'Orthodontie Becker",
+  "short": "Cabinet",
+  "email": "info.ettelbrueck@cabinet-becker.lu",
+  "phone": "(+352) 26 68 11 50",
+  "locality": "Ettelbruck",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-d-orthodontie-becker/"
+ },
+ {
+  "slug": "cabinet-dentaire-dr-merkes-et-associes",
+  "name": "Cabinet Dentaire Dr. MERKES et Associés",
+  "short": "Cabinet",
+  "email": "smile@merkes-dentiste.lu",
+  "phone": "+352 95 89 61",
+  "locality": "Wiltz",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-dr-merkes-et-associes/"
+ },
+ {
+  "slug": "dr-damir-antoncic",
+  "name": "Dr Damir Antončić",
+  "short": "Dr Damir",
+  "email": "info@antoncic-dentiste.lu",
+  "phone": "+352 691 353 400",
+  "locality": "Wiltz",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-damir-antoncic/"
+ },
+ {
+  "slug": "centre-dentaire-dr-george-associes",
+  "name": "Centre dentaire Dr George & Associés",
+  "short": "Centre",
+  "email": "luxembourg@drgeorgeassocies.lu",
+  "phone": "+352 27 86 04 42",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/centre-dentaire-dr-george-associes/"
+ },
+ {
+  "slug": "denta-lu",
+  "name": "Denta.lu",
+  "short": "Denta.lu",
+  "email": "clinique@denta.lu",
+  "phone": "+352 28 20 74 85",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/denta-lu/"
+ },
+ {
+  "slug": "cabinet-dentaire-ana-rodrigues",
+  "name": "Cabinet Dentaire Ana Rodrigues",
+  "short": "Cabinet",
+  "email": "medicina_ana_@hotmail.com",
+  "phone": "+352 26 58 01 03",
+  "locality": "Differdange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-ana-rodrigues/"
+ },
+ {
+  "slug": "cabinet-dentaire-poirot-leleu",
+  "name": "Cabinet Dentaire Poirot & Leleu",
+  "short": "Cabinet",
+  "email": "dr.remipoirot@gmail.com",
+  "phone": "+352 28 66 500",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-poirot-leleu/"
+ },
+ {
+  "slug": "cabinet-de-medecine-dentaire-kratzenberg",
+  "name": "Cabinet de médecine dentaire Kratzenberg",
+  "short": "Cabinet",
+  "email": "secretariat@orthodent.lu",
+  "phone": "+352 47 14 49",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-de-medecine-dentaire-kratzenberg/"
+ },
+ {
+  "slug": "cabinet-dentaire-dr-ducrocq",
+  "name": "Cabinet Dentaire Dr Ducrocq",
+  "short": "Cabinet",
+  "email": "dr.camille.ducrocq@gmail.com",
+  "phone": "+352 27 40 84 94",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-dr-ducrocq/"
+ },
+ {
+  "slug": "justsmile",
+  "name": "Justsmile",
+  "short": "Justsmile",
+  "email": "contact@justsmile.lu",
+  "phone": "+352 24 15 42",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/justsmile/"
+ },
+ {
+  "slug": "cabinet-apex",
+  "name": "Cabinet Apex",
+  "short": "Cabinet",
+  "email": "cabinetapex.lu@yahoo.com",
+  "phone": "+352 621 628 993",
+  "locality": "Dudelange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-apex/"
+ },
+ {
+  "slug": "ora-dental-clinic",
+  "name": "ORA Dental Clinic",
+  "short": "ORA Dental",
+  "email": "contact@oradental.lu",
+  "phone": "+352 27 76 17 09",
+  "locality": "Differdange",
+  "url": "https://hridayagg.github.io/lumora-demos/ora-dental-clinic/"
+ },
+ {
+  "slug": "cabinet-dentaire-arnould-tanson",
+  "name": "Cabinet dentaire Arnould-Tanson",
+  "short": "Cabinet",
+  "email": "info@dentiste-tanson.lu",
+  "phone": "+352 26 52 15 30",
+  "locality": "Dudelange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-arnould-tanson/"
+ },
+ {
+  "slug": "oral-lux",
+  "name": "Oral Lux",
+  "short": "Oral",
+  "email": "contact@oral-lux.com",
+  "phone": "+352 621 714 589",
+  "locality": "Dudelange",
+  "url": "https://hridayagg.github.io/lumora-demos/oral-lux/"
+ },
+ {
+  "slug": "cabinet-dentaire-sld",
+  "name": "Cabinet dentaire SLD",
+  "short": "Cabinet",
+  "email": "schlussnuss.limpach@gmail.com",
+  "phone": "+352 26 52 28 94",
+  "locality": "Dudelange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-sld/"
+ },
+ {
+  "slug": "cabinet-medico-dentaire-belair",
+  "name": "Cabinet Médico Dentaire Belair",
+  "short": "Cabinet",
+  "email": "office@dental-belair.lu",
+  "phone": "+352 26 39 43 53",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-medico-dentaire-belair/"
+ },
+ {
+  "slug": "cabinet-dentaire-belair",
+  "name": "Cabinet Dentaire Belair",
+  "short": "Cabinet",
+  "email": "info@cabinetdentairebelair.lu",
+  "phone": "+352 20 28 76 22",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-belair/"
+ },
+ {
+  "slug": "cabinet-des-drs-cuzin-boonen-et-schaack",
+  "name": "Cabinet des Drs CUZIN, BOONEN et SCHAACK",
+  "short": "Cabinet",
+  "email": "secretariatcbs17@gmail.com",
+  "phone": "+352 465 152",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-des-drs-cuzin-boonen-et-schaack/"
+ },
+ {
+  "slug": "cabinet-d-orthodontie-dr-schay-portal",
+  "name": "Cabinet d'Orthodontie Dr. Schay Portal",
+  "short": "Cabinet",
+  "email": "orthoportal@gmail.com",
+  "phone": "+352 26 44 15 16",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-d-orthodontie-dr-schay-portal/"
+ },
+ {
+  "slug": "dr-israa-hariri",
+  "name": "Dr. Israa Hariri",
+  "short": "Dr. Israa",
+  "email": "info@dr-hariri.lu",
+  "phone": "+352 27 91 35 63",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-israa-hariri/"
+ },
+ {
+  "slug": "dr-philippe-collard",
+  "name": "Dr Philippe Collard",
+  "short": "Dr Philippe",
+  "email": "info@philippecollard.lu",
+  "phone": "+352 26 65 70 70",
+  "locality": "Pétange",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-philippe-collard/"
+ },
+ {
+  "slug": "harmonie-dentaire",
+  "name": "Harmonie Dentaire",
+  "short": "Harmonie",
+  "email": "harmoniedentaire.lux@gmail.com",
+  "phone": "+352 20 22 22 50",
+  "locality": "Niederkorn",
+  "url": "https://hridayagg.github.io/lumora-demos/harmonie-dentaire/"
+ },
+ {
+  "slug": "cabinet-dentaire-sybertz",
+  "name": "Cabinet Dentaire Sybertz",
+  "short": "Cabinet",
+  "email": "secretariat@cabinetdentairesybertz.lu",
+  "phone": "+352 54 55 95",
+  "locality": "Esch-sur-Alzette",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-sybertz/"
+ },
+ {
+  "slug": "letzsmile-dental",
+  "name": "LetzSmile Dental",
+  "short": "LetzSmile",
+  "email": "info@letzsmile.lu",
+  "phone": "+352 27 80 14",
+  "locality": "Strassen",
+  "url": "https://hridayagg.github.io/lumora-demos/letzsmile-dental/"
+ },
+ {
+  "slug": "cabinet-dentaire-kipgen-van-hove",
+  "name": "Cabinet Dentaire Kipgen-Van Hove",
+  "short": "Cabinet",
+  "email": "info [at] dent [dot] lu",
+  "phone": "(+352) 2060 2223",
+  "locality": "Strassen",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-kipgen-van-hove/"
+ },
+ {
+  "slug": "manes-holtz",
+  "name": "Manes & Holtz",
+  "short": "Manes",
+  "email": "info@manesholtz.lu",
+  "phone": "(+352) 31 50 26",
+  "locality": "Strassen",
+  "url": "https://hridayagg.github.io/lumora-demos/manes-holtz/"
+ },
+ {
+  "slug": "cabinet-dentaire-joao-galrao-et-associes",
+  "name": "Cabinet Dentaire João Galrão et Associés",
+  "short": "Cabinet",
+  "email": "cabinetdrgalrao@gmail.com",
+  "phone": "+352 28 79 99 97",
+  "locality": "Mersch",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-joao-galrao-et-associes/"
+ },
+ {
+  "slug": "dentiste-dr-med-dent-birgit-braun",
+  "name": "Dentiste Dr. med. dent. Birgit Braun",
+  "short": "Dentiste",
+  "email": "cabinet.dentaire.bb@gmail.com",
+  "phone": "+352 27 91 12 55",
+  "locality": "Bertrange",
+  "url": "https://hridayagg.github.io/lumora-demos/dentiste-dr-med-dent-birgit-braun/"
+ },
+ {
+  "slug": "cabinet-medico-dentaire-kehlen",
+  "name": "Cabinet Médico-Dentaire Kehlen",
+  "short": "Cabinet",
+  "email": "info@cmdkehlen.lu",
+  "phone": "+352 26 10 28 10",
+  "locality": "Kehlen",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-medico-dentaire-kehlen/"
+ },
+ {
+  "slug": "dentiste-celine-kolb",
+  "name": "Dentiste Céline Kolb",
+  "short": "Dentiste",
+  "email": "drcelinekolb@gmail.com",
+  "phone": "+352 28 79 59 59",
+  "locality": "Mamer",
+  "url": "https://hridayagg.github.io/lumora-demos/dentiste-celine-kolb/"
+ },
+ {
+  "slug": "cabinet-dentaire-pirv-dr-ioana-pirv",
+  "name": "Cabinet Dentaire Pirv (Dr Ioana Pirv)",
+  "short": "Cabinet",
+  "email": "ioana_pirv@hotmail.com",
+  "phone": "+352 50 42 63",
+  "locality": "Pétange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-pirv-dr-ioana-pirv/"
+ },
+ {
+  "slug": "cabinet-dentaire-marie-adelaide",
+  "name": "Cabinet Dentaire Marie-Adélaïde",
+  "short": "Cabinet",
+  "email": "info@cabinetma.lu",
+  "phone": "+352 27 76 29 16",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-marie-adelaide/"
+ },
+ {
+  "slug": "rodde-associes",
+  "name": "Rodde & Associés",
+  "short": "Rodde",
+  "email": "contact@roddeassocies.com",
+  "phone": "",
+  "locality": "Schifflange",
+  "url": "https://hridayagg.github.io/lumora-demos/rodde-associes/"
+ },
+ {
+  "slug": "cabinet-dentaire-tojal",
+  "name": "Cabinet Dentaire Tojal",
+  "short": "Cabinet",
+  "email": "info@cabinetdentairetojal.lu",
+  "phone": "",
+  "locality": "Esch-sur-Alzette",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-tojal/"
+ },
+ {
+  "slug": "dr-mauro-porseo",
+  "name": "Dr Mauro Porseo",
+  "short": "Dr Mauro",
+  "email": "mauroporseo@studioporseo.it",
+  "phone": "",
+  "locality": "Mersch",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-mauro-porseo/"
+ },
+ {
+  "slug": "cmd-la-chapelle",
+  "name": "CMD la Chapelle",
+  "short": "CMD la",
+  "email": "cmdlachapelle@gmail.com",
+  "phone": "",
+  "locality": "Kayl",
+  "url": "https://hridayagg.github.io/lumora-demos/cmd-la-chapelle/"
+ },
+ {
+  "slug": "dentiste-raoul-herr",
+  "name": "Dentiste Raoul Herr",
+  "short": "Dentiste",
+  "email": "praxherr@pt.lu",
+  "phone": "",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dentiste-raoul-herr/"
+ },
+ {
+  "slug": "cabinet-medico-dentaire-walferdange",
+  "name": "Cabinet Médico-Dentaire Walferdange",
+  "short": "Cabinet",
+  "email": "contact@cmdw.lu",
+  "phone": "",
+  "locality": "Walferdange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-medico-dentaire-walferdange/"
+ },
+ {
+  "slug": "centre-dentaire-junglinster",
+  "name": "Centre Dentaire Junglinster",
+  "short": "Centre",
+  "email": "centredentairejunglinster@gmail.com",
+  "phone": "",
+  "locality": "Junglinster",
+  "url": "https://hridayagg.github.io/lumora-demos/centre-dentaire-junglinster/"
+ },
+ {
+  "slug": "cabinet-dentaire-ma",
+  "name": "Cabinet Dentaire MA",
+  "short": "Cabinet",
+  "email": "info@cabinetma.lu",
+  "phone": "",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-ma/"
+ },
+ {
+  "slug": "centre-medico-dentaire-bertrange",
+  "name": "Centre Medico Dentaire Bertrange",
+  "short": "Centre",
+  "email": null,
+  "phone": "+352 27 75 05 50",
+  "locality": "Bertrange",
+  "url": "https://hridayagg.github.io/lumora-demos/centre-medico-dentaire-bertrange/"
+ },
+ {
+  "slug": "cabinet-dentaire-des-oliviers",
+  "name": "Cabinet Dentaire des Oliviers",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+35226383720",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-des-oliviers/"
+ },
+ {
+  "slug": "cabinet-d-orthodontie-drs-hariri",
+  "name": "Cabinet d'Orthodontie Drs Hariri",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+352 27 91 35 63",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-d-orthodontie-drs-hariri/"
+ },
+ {
+  "slug": "centre-dentaire-dentalplus-luxembourg",
+  "name": "Centre dentaire Dentalplus Luxembourg",
+  "short": "Centre",
+  "email": null,
+  "phone": "+352 27 52 18 25",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/centre-dentaire-dentalplus-luxembourg/"
+ },
+ {
+  "slug": "smile-center",
+  "name": "Smile Center",
+  "short": "Smile",
+  "email": null,
+  "phone": "+352 28 80 55 92",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/smile-center/"
+ },
+ {
+  "slug": "cabinet-dental-cure",
+  "name": "Cabinet Dental Cure",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+352 691 680 727",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dental-cure/"
+ },
+ {
+  "slug": "orthodent",
+  "name": "Orthodent",
+  "short": "Orthodent",
+  "email": null,
+  "phone": "00352 47 14 49",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/orthodent/"
+ },
+ {
+  "slug": "frederic-dethier",
+  "name": "Frédéric Dethier",
+  "short": "Frédéric",
+  "email": null,
+  "phone": "+352222052",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/frederic-dethier/"
+ },
+ {
+  "slug": "dr-alexandre-kandalaft",
+  "name": "Dr. Alexandre Kandalaft",
+  "short": "Dr. Alexandre",
+  "email": null,
+  "phone": "+352450823",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-alexandre-kandalaft/"
+ },
+ {
+  "slug": "dr-elisabetta-vazzana",
+  "name": "Dr. Elisabetta Vazzana",
+  "short": "Dr. Elisabetta",
+  "email": null,
+  "phone": "+352 26 20 19 39",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-elisabetta-vazzana/"
+ },
+ {
+  "slug": "dr-arlette-hornung-muelenhoff",
+  "name": "Dr. Arlette Hornung Muelenhoff",
+  "short": "Dr. Arlette",
+  "email": null,
+  "phone": "+352442338",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-arlette-hornung-muelenhoff/"
+ },
+ {
+  "slug": "dr-maxime-moersch",
+  "name": "Dr. Maxime Moersch",
+  "short": "Dr. Maxime",
+  "email": null,
+  "phone": "+352442338",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-maxime-moersch/"
+ },
+ {
+  "slug": "lisy-weber",
+  "name": "Lisy Weber",
+  "short": "Lisy",
+  "email": null,
+  "phone": "+35226441760",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/lisy-weber/"
+ },
+ {
+  "slug": "daniel-elias",
+  "name": "Daniel Elias",
+  "short": "Daniel",
+  "email": null,
+  "phone": "+352449383",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/daniel-elias/"
+ },
+ {
+  "slug": "dr-camille-stines",
+  "name": "Dr. Camille Stines",
+  "short": "Dr. Camille",
+  "email": null,
+  "phone": "+352 27 86 04 42",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-camille-stines/"
+ },
+ {
+  "slug": "dr-panagiota-choravati",
+  "name": "Dr. Panagiota Choravati",
+  "short": "Dr. Panagiota",
+  "email": null,
+  "phone": "+352 27 44 28",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-panagiota-choravati/"
+ },
+ {
+  "slug": "anouk-zens",
+  "name": "Anouk Zens",
+  "short": "Anouk",
+  "email": null,
+  "phone": "+352 27762916",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/anouk-zens/"
+ },
+ {
+  "slug": "dr-ana-carolina-ramos-trabulo",
+  "name": "Dr. Ana Carolina Ramos Trabulo",
+  "short": "Dr. Ana",
+  "email": null,
+  "phone": "+35220287622",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-ana-carolina-ramos-trabulo/"
+ },
+ {
+  "slug": "dr-sofia-marques-pereira",
+  "name": "Dr. Sofia Marques Pereira",
+  "short": "Dr. Sofia",
+  "email": null,
+  "phone": "+352661435582",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-sofia-marques-pereira/"
+ },
+ {
+  "slug": "dr-jurgen-arent",
+  "name": "Dr. Jürgen Arent",
+  "short": "Dr. Jürgen",
+  "email": null,
+  "phone": "+35226683666",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-jurgen-arent/"
+ },
+ {
+  "slug": "maria-eliza-kardara",
+  "name": "Maria-Eliza Kardara",
+  "short": "Maria-Eliza",
+  "email": null,
+  "phone": "+35226203280",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/maria-eliza-kardara/"
+ },
+ {
+  "slug": "dr-sherida-mansur",
+  "name": "Dr. Shérida Mansur",
+  "short": "Dr. Shérida",
+  "email": null,
+  "phone": "352 42 09 55",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-sherida-mansur/"
+ },
+ {
+  "slug": "dr-giorgia-olivieri",
+  "name": "Dr. Giorgia Olivieri",
+  "short": "Dr. Giorgia",
+  "email": null,
+  "phone": "+352472484",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-giorgia-olivieri/"
+ },
+ {
+  "slug": "dr-radu-oprea",
+  "name": "Dr. Radu Oprea",
+  "short": "Dr. Radu",
+  "email": null,
+  "phone": "+352691787757",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-radu-oprea/"
+ },
+ {
+  "slug": "dr-kim-victoria-weyrich",
+  "name": "Dr. Kim Victoria Weyrich",
+  "short": "Dr. Kim",
+  "email": null,
+  "phone": "+352475602",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-kim-victoria-weyrich/"
+ },
+ {
+  "slug": "dr-joana-silva",
+  "name": "Dr. Joana Silva",
+  "short": "Dr. Joana",
+  "email": null,
+  "phone": "+352 621 562 490",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-joana-silva/"
+ },
+ {
+  "slug": "viktor-voloshchuk",
+  "name": "Viktor Voloshchuk",
+  "short": "Viktor",
+  "email": null,
+  "phone": "+35226203640",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/viktor-voloshchuk/"
+ },
+ {
+  "slug": "dr-yuliia-foksha",
+  "name": "Dr Yuliia Foksha",
+  "short": "Dr Yuliia",
+  "email": null,
+  "phone": "+352 26 20 36 40",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-yuliia-foksha/"
+ },
+ {
+  "slug": "asya-petrova",
+  "name": "Asya Petrova",
+  "short": "Asya",
+  "email": null,
+  "phone": "+35226203640",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/asya-petrova/"
+ },
+ {
+  "slug": "joao-galrao",
+  "name": "João Galrão",
+  "short": "João",
+  "email": null,
+  "phone": "+352 22 18 15",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/joao-galrao/"
+ },
+ {
+  "slug": "dr-alexandra-lopes",
+  "name": "Dr. Alexandra Lopes",
+  "short": "Dr. Alexandra",
+  "email": null,
+  "phone": "+352 22 18 15",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-alexandra-lopes/"
+ },
+ {
+  "slug": "sara-saraiva-salgueiro",
+  "name": "Sara Saraiva Salgueiro",
+  "short": "Sara",
+  "email": null,
+  "phone": "+352 22 18 15",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/sara-saraiva-salgueiro/"
+ },
+ {
+  "slug": "dr-nikola-tsanev",
+  "name": "Dr. Nikola Tsanev",
+  "short": "Dr. Nikola",
+  "email": null,
+  "phone": "+352661463600",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-nikola-tsanev/"
+ },
+ {
+  "slug": "dr-camille-ducrocq",
+  "name": "Dr. Camille Ducrocq",
+  "short": "Dr. Camille",
+  "email": null,
+  "phone": "+352661260815",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-camille-ducrocq/"
+ },
+ {
+  "slug": "dr-adrien-calafat",
+  "name": "Dr. Adrien Calafat",
+  "short": "Dr. Adrien",
+  "email": null,
+  "phone": "+35226201939",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-adrien-calafat/"
+ },
+ {
+  "slug": "bastien-piccinini",
+  "name": "Bastien Piccinini",
+  "short": "Bastien",
+  "email": null,
+  "phone": "+35227408494",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/bastien-piccinini/"
+ },
+ {
+  "slug": "dr-beatriz-weitzel",
+  "name": "Dr. Beatriz Weitzel",
+  "short": "Dr. Beatriz",
+  "email": null,
+  "phone": "+352661435582",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-beatriz-weitzel/"
+ },
+ {
+  "slug": "dr-philippe-weitzel",
+  "name": "Dr. Philippe Weitzel",
+  "short": "Dr. Philippe",
+  "email": null,
+  "phone": "+352 691 435 582",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-philippe-weitzel/"
+ },
+ {
+  "slug": "maria-teresa-weitzel",
+  "name": "Maria Teresa Weitzel",
+  "short": "Maria",
+  "email": null,
+  "phone": "+352661435582",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/maria-teresa-weitzel/"
+ },
+ {
+  "slug": "jeanne-pichonnier",
+  "name": "Jeanne Pichonnier",
+  "short": "Jeanne",
+  "email": null,
+  "phone": "+352621777407",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/jeanne-pichonnier/"
+ },
+ {
+  "slug": "daniel-bley",
+  "name": "Daniel Bley",
+  "short": "Daniel",
+  "email": null,
+  "phone": "+352462040",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/daniel-bley/"
+ },
+ {
+  "slug": "dr-mariana-scheifer-bratulescu",
+  "name": "Dr. Mariana Scheifer-Bratulescu",
+  "short": "Dr. Mariana",
+  "email": null,
+  "phone": "+352462020",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-mariana-scheifer-bratulescu/"
+ },
+ {
+  "slug": "dental-med",
+  "name": "Dental Med",
+  "short": "Dental",
+  "email": null,
+  "phone": "+352 261270",
+  "locality": "Luxembourg",
+  "url": "https://hridayagg.github.io/lumora-demos/dental-med/"
+ },
+ {
+  "slug": "cabinet-dentaire-kevin-knick",
+  "name": "Cabinet Dentaire Kevin Knick",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+352 23 69 85 45",
+  "locality": "Remich",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-kevin-knick/"
+ },
+ {
+  "slug": "cabinet-dentaire-ndc",
+  "name": "Cabinet Dentaire NDC",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+352 621 176 563",
+  "locality": "Echternach",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-ndc/"
+ },
+ {
+  "slug": "dr-rotta-bogdan-und-dr-rotta-maior-alina-nadia",
+  "name": "Dr. Rotta Bogdan und Dr. Rotta-Maior Alina Nadia",
+  "short": "Dr. Rotta",
+  "email": null,
+  "phone": "+352 26 66 44 43",
+  "locality": "Remich",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-rotta-bogdan-und-dr-rotta-maior-alina-nadia/"
+ },
+ {
+  "slug": "dr-streubel-partner",
+  "name": "Dr. Streubel & Partner",
+  "short": "Dr. Streubel",
+  "email": null,
+  "phone": "26 70 13 71",
+  "locality": "Canach",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-streubel-partner/"
+ },
+ {
+  "slug": "cabinet-dentaire-dr-christelle-vertommen",
+  "name": "Cabinet dentaire Dr Christelle Vertommen",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+352661421661",
+  "locality": "Hesperange",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-dr-christelle-vertommen/"
+ },
+ {
+  "slug": "hesper-cabinet-dentaire",
+  "name": "Hesper Cabinet Dentaire",
+  "short": "Hesper",
+  "email": null,
+  "phone": "+352 36 74 81/ +352 621 704 251",
+  "locality": "Hesperange",
+  "url": "https://hridayagg.github.io/lumora-demos/hesper-cabinet-dentaire/"
+ },
+ {
+  "slug": "emanuela-mezzanotte",
+  "name": "Emanuela Mezzanotte",
+  "short": "Emanuela",
+  "email": null,
+  "phone": "+352 26 48 15 48",
+  "locality": "Howald",
+  "url": "https://hridayagg.github.io/lumora-demos/emanuela-mezzanotte/"
+ },
+ {
+  "slug": "cabinet-dentaire-baraka",
+  "name": "Cabinet Dentaire Baraka",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "+352 26 15 61",
+  "locality": "Bonnevoie",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-dentaire-baraka/"
+ },
+ {
+  "slug": "cabinet-de-medecine-dentaire",
+  "name": "Cabinet de Médecine Dentaire",
+  "short": "Cabinet",
+  "email": null,
+  "phone": "(+352) 80 99 74",
+  "locality": "Diekirch",
+  "url": "https://hridayagg.github.io/lumora-demos/cabinet-de-medecine-dentaire/"
+ },
+ {
+  "slug": "dr-toufik-addas",
+  "name": "Dr. Toufik Addas",
+  "short": "Dr. Toufik",
+  "email": null,
+  "phone": "+352691789446",
+  "locality": "Diekirch",
+  "url": "https://hridayagg.github.io/lumora-demos/dr-toufik-addas/"
+ }
+]
